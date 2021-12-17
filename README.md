@@ -10,5 +10,10 @@ Não é um produto comercial.
 
 
 
-Os recursos de sprites, backgrouns e sons estão disponíveis no site: https://itch.io/
+**Versão Jogável: https://leonardoviana.com.br/jogo/**
 
+
+
+----------------
+
+Os recursos de sprites, backgrouns e sons estão disponíveis no site: https://itch.io/
